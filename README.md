@@ -1,4 +1,4 @@
-# WAME optimizer for occupancy detection problem
+# WAME optimizer for occupancy detection problem (Keras)
 <p><b>Title 1</b></p> 
 <p>Text will be uploaded</p>
 <p><b>Title 2</b></p> 
